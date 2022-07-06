@@ -19,4 +19,4 @@ dollar spent over $50 in each transaction
 Due to time constraint these were not covered -
 - Unit tests
 - Integration tests
-- Exceptions
+- Exception handling
